@@ -5,12 +5,12 @@ A personal Machine Learning MATLAB toolbox. Algorithms implemented in a simple a
 
 Current Version:
 
-1. Modelling of data using a Gaussian Mixture Model (GMM) fitted using Expectation-Maximization (EM)
+1. Modelling of data using a Gaussian Mixture Model (GMM) fitted using Expectation-Maximization (EM).
 
 
 Dataset included:
 
-1. Old Faithful Geiser Dataset[1]
+1. Old Faithful Geiser Dataset [1].
  
  
 

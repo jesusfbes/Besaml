@@ -1,9 +1,11 @@
 clc;clear; close all;
 
-load ex3data1.mat
+load mini_mnist.mat
+
 % y and X
 
-rng(1);
+rand('seed', 1);
+randn('seed', 1);
 
 % Data dimensions
 [N,D] = size(X);

@@ -1,4 +1,4 @@
-# BESML: Barely Efficient and Simple Machine Learning
+# BESAML: Barely Efficient and ScalAble Machine Learning toolbox
 
 A personal Machine Learning MATLAB toolbox. Algorithms implemented in a simple and readable way.  
 Part of this code is inspired by the code of [Coursera's Machine Learning course](https://www.coursera.org/learn/machine-learning) by Andrew Ng. 

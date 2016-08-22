@@ -3,12 +3,12 @@ Barely Efficient and Simple Machine Learning (besML)
 
 A personal Machine Learning MATLAB toolbox. Algorithms implemented in a simple and readable way. 
 
-Current Version:
+**Current Version:**
 
 1. Modelling of data using a Gaussian Mixture Model (GMM) fitted using Expectation-Maximization (EM).
 
 
-Dataset included:
+**Dataset included:**
 
 1. Old Faithful Geiser Dataset [1].
  

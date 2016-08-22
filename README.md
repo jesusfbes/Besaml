@@ -1,5 +1,4 @@
-# besML
-Barely Efficient and Simple Machine Learning (besML)
+# BESML: Barely Efficient and Simple Machine Learning
 
 A personal Machine Learning MATLAB toolbox. Algorithms implemented in a simple and readable way. 
 

@@ -3,6 +3,9 @@
 A personal Machine Learning MATLAB toolbox. Algorithms implemented in a simple and readable way.  
 Part of this code is inspired by the code of [Coursera's Machine Learning course](https://www.coursera.org/learn/machine-learning) by Andrew Ng. 
 
+**Instalation:**
+run `besml_setup.m` file before using the toolbox. 
+
 **Current Version:**
 
 1. Modelling of data using a Gaussian Mixture Model (GMM) fitted using Expectation-Maximization (EM).
@@ -12,6 +15,7 @@ Part of this code is inspired by the code of [Coursera's Machine Learning course
 **Dataset included:**
 
 I have included some small datasets to test the implemented algorithms.
+
 1. Old Faithful Geiser Dataset [1,2].
 2. Subset of MNIST dataset [3] selected in [Coursera's Machine Learning course](https://www.coursera.org/learn/machine-learning).
  

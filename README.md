@@ -24,7 +24,11 @@ I have included some small datasets to test the implemented algorithms.
 
 Function `fmincg`. Copyright (C) 2001 and 2002 by Carl Edward Rasmussen. Date 2002-02-13.
 
-References:
+**Development:**
+
+*Besamel* is a work in progress, any comment would be welcomed.
+
+**References:**
 
      [1] Hardle, W. (1991) Smoothing Techniques with Implementation in S.
      New York: Springer.

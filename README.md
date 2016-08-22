@@ -1,6 +1,7 @@
 # BESML: Barely Efficient and Simple Machine Learning
 
-A personal Machine Learning MATLAB toolbox. Algorithms implemented in a simple and readable way. 
+A personal Machine Learning MATLAB toolbox. Algorithms implemented in a simple and readable way.  
+Part of this code is inspired by the code of [Coursera's Machine Learning course](https://www.coursera.org/learn/machine-learning) by Andrew Ng. 
 
 **Current Version:**
 
@@ -11,17 +12,17 @@ A personal Machine Learning MATLAB toolbox. Algorithms implemented in a simple a
 **Dataset included:**
 
 1. Old Faithful Geiser Dataset [1].
+2. Subset of MNIST dataset [2] selected in [Coursera's Machine Learning course](https://www.coursera.org/learn/machine-learning).
  
- 
-Part of this code is inspired by the code of [Coursera's Machine Learning course](https://www.coursera.org/learn/machine-learning) by Andrew Ng. 
 
 Function `fmincg`. Copyright (C) 2001 and 2002 by Carl Edward Rasmussen. Date 2002-02-13.
 
-[1] References:
+References:
 
-     Hardle, W. (1991) Smoothing Techniques with Implementation in S.
-     New York: Springer.
-
-     Azzalini, A. and Bowman, A. W. (1990). A look at some data on the
-     Old Faithful geyser. Applied Statistics 39, 357-365.
+     [1] Hardle, W. (1991) Smoothing Techniques with Implementation in S.
+      New York: Springer.
+      Azzalini, A. and Bowman, A. W. (1990). A look at some data on the
+      Old Faithful geyser. Applied Statistics 39, 357-365.
+      
+      [2] Y. LeCun, L. Bottou, Y. Bengio, and P. Haffner. "Gradient-based learning applied to document recognition." Proceedings of the IEEE, 86(11):2278-2324, November 1998.
 

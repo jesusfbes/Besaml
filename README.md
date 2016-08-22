@@ -5,6 +5,7 @@ A personal Machine Learning MATLAB toolbox. Algorithms implemented in a simple a
 **Current Version:**
 
 1. Modelling of data using a Gaussian Mixture Model (GMM) fitted using Expectation-Maximization (EM).
+2. Multiclass Softmax Regression Classifier.
 
 
 **Dataset included:**

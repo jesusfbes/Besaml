@@ -1,4 +1,4 @@
-% besML toolbox
+% besaML toolbox directories
 addpath(fullfile(pwd)) ;
 
 addpath(fullfile(pwd,'dataset','')) ;

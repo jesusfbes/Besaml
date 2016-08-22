@@ -4,7 +4,8 @@ A personal Machine Learning MATLAB toolbox. Algorithms implemented in a simple a
 Part of this code is inspired by the code of [Coursera's Machine Learning course](https://www.coursera.org/learn/machine-learning) by Andrew Ng. 
 
 **Instalation:**
-run `besml_setup.m` file before using the toolbox. 
+
+Run `besml_setup.m` file before using the toolbox. 
 
 **Current Version:**
 

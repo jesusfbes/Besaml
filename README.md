@@ -19,10 +19,7 @@ Function `fmincg`. Copyright (C) 2001 and 2002 by Carl Edward Rasmussen. Date 20
 
 References:
 
-     [1] Hardle, W. (1991) Smoothing Techniques with Implementation in S.
-      New York: Springer.
-     [2] Azzalini, A. and Bowman, A. W. (1990). A look at some data on the
-      Old Faithful geyser. Applied Statistics 39, 357-365.
-      
-      [3] Y. LeCun, L. Bottou, Y. Bengio, and P. Haffner. "Gradient-based learning applied to document recognition." Proceedings of the IEEE, 86(11):2278-2324, November 1998.
+     [1] Hardle, W. (1991) Smoothing Techniques with Implementation in S. New York: Springer.
+     [2] Azzalini, A. and Bowman, A. W. (1990). A look at some data on the Old Faithful geyser. Applied Statistics 39, 357-365.
+     [3] Y. LeCun, L. Bottou, Y. Bengio, and P. Haffner. "Gradient-based learning applied to document recognition." Proceedings of the IEEE, 86(11):2278-2324, November 1998.
 

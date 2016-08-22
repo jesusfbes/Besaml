@@ -13,6 +13,7 @@ Dataset included:
 1. Old Faithful Geiser Dataset [1].
  
  
+Part of this code is inspired by the code of [Coursera's Machine Learning course](https://www.coursera.org/learn/machine-learning) by Andrew Ng.
 
 [1] References:
 

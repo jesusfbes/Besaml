@@ -1,7 +1,7 @@
 # BESAML: Barely Efficient and ScalAble Machine Learning toolbox
 
 A personal Machine Learning MATLAB toolbox. Algorithms implemented in a simple and readable way.  
-Part of this code is inspired by the code of [Coursera's Machine Learning course](https://www.coursera.org/learn/machine-learning) by Andrew Ng. If you arrive here looking for a Deep Learning toolbox you probably were looking for [Lasagne](https://github.com/Lasagne/Lasagne), only related to this in a gastronomical way.
+Part of this code is inspired by the code of [Coursera's Machine Learning course](https://www.coursera.org/learn/machine-learning) by Andrew Ng. If you arrived here looking for a Deep Learning toolbox you probably were looking for [Lasagne](https://github.com/Lasagne/Lasagne), only related to this in a gastronomical way.
 
 
 **Instalation:**

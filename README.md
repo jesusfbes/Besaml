@@ -6,7 +6,7 @@ Part of this code is inspired by the code of [Coursera's Machine Learning course
 
 **Instalation:**
 
-Run `besml_setup.m` file before using the toolbox. 
+Run `besaml_setup.m` file before using the toolbox. 
 
 **Current Version:**
 

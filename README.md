@@ -11,6 +11,7 @@ Part of this code is inspired by the code of [Coursera's Machine Learning course
 
 **Dataset included:**
 
+I have included some small datasets to test the implemented algorithms.
 1. Old Faithful Geiser Dataset [1,2].
 2. Subset of MNIST dataset [3] selected in [Coursera's Machine Learning course](https://www.coursera.org/learn/machine-learning).
  

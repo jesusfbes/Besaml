@@ -3,6 +3,8 @@
 A personal Machine Learning MATLAB toolbox. Algorithms are implemented in a simple and readable way.  
 Part of this code is inspired by the code of [Coursera's Machine Learning course](https://www.coursera.org/learn/machine-learning) by Andrew Ng. If you arrived here looking for a Deep Learning toolbox you probably were looking for [Lasagne](https://github.com/Lasagne/Lasagne), only related to this in a gastronomical way.
 
+The main use of this toolbox is education and research and, according to its name, I do not recomend it for data-intensive production environments. In such a case, you can contact me at [contact@jesusfbes.es](contact@jesusfbes.es) for proffesional advice.
+
 
 **Instalation:**
 

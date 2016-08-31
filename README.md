@@ -28,7 +28,7 @@ Function `fmincg`. Copyright (C) 2001 and 2002 by Carl Edward Rasmussen. Date 20
 
 **Development:**
 
-*Besamel* is a work in progress, any comment would be welcomed.
+*Besaml* is a work in progress, any comment would be welcomed.
 
 **References:**
 
